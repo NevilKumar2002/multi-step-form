@@ -1,4 +1,4 @@
-// src/components/PersonalInfo.js
+
 import React from 'react';
 
 const PersonalInfo = ({ formData, errors, handleChange }) => {

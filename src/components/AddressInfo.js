@@ -1,4 +1,4 @@
-// src/components/AddressInfo.js
+
 import React from 'react';
 
 const AddressInfo = ({ formData, errors, handleChange }) => {

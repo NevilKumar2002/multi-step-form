@@ -189,3 +189,23 @@ h2{
     text-align: left;
   }
 }
+@keyframes sprinkle {
+  0% {
+    transform: translateY(-100%);
+    opacity: 0;
+  }
+  100% {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+.sprinkle {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 24px;
+  color: gold;
+  animation: sprinkle 0.5s ease-out;
+}

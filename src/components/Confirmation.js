@@ -42,47 +42,4 @@ const Confirmation = ({ formData }) => {
 
 export default Confirmation;
 
-// import React from 'react';
 
-// const Confirmation = ({ formData }) => {
-//   return (
-//     <div>
-//       <h2>Confirmation</h2>
-//       <div>
-//         <strong>Name:</strong> {formData.name}
-//         <hr/>
-//       </div>
-    
-//       <div>
-//         <strong>Email:</strong> {formData.email}
-//         <hr/>
-//       </div>
-//       <div>
-//         <strong>Phone:</strong> {formData.phone}
-//         <hr/>
-//       </div>
-//       <div>
-//         <strong>Address Line 1:</strong> {formData.address1}
-//         <hr/>
-//       </div>
-//       <div>
-//         <strong>Address Line 2:</strong> {formData.address2}
-//         <hr/>
-//       </div>
-//       <div>
-//         <strong>City:</strong> {formData.city}
-//         <hr/>
-//       </div>
-//       <div>
-//         <strong>State:</strong> {formData.state}
-//         <hr/>
-//       </div>
-//       <div>
-//         <strong>Zip Code:</strong> <p>{formData.zip}</p>
-//         <hr/>
-//       </div>
-//     </div>
-//   );
-// };
-
-// export default Confirmation;

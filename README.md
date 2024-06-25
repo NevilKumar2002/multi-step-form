@@ -2,10 +2,10 @@
 A responsive multi-step form built using React.js, featuring data validation, error handling, navigation controls, and local storage persistence.
 
 ### Technologies Used
-## React.js
-## HTML
-## CSS
-## JavaScript
+1. React.js
+2. HTML
+3. CSS
+4. JavaScript
 
 ### Features: 
 
